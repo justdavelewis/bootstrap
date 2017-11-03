@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"mai",
+				"main_image"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"tr",
+				"trainNumber"
+			],
+			[
+				"op",
+				"trainsOperational"
+			],
+			[
+				"ta",
+				"trainNumber"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Dave/Desktop/localhost/style/wp-content/themes/stylejc/page-about-jacqui.php",
+			"settings":
+			{
+				"buffer_size": 5609,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "project",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"pr",
+				"Project Manager: Add New Project"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"op",
+				"Project Manager: Open Project"
+			],
+			[
+				"proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"Project Manager: Open Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Dave/Desktop/localhost/style",
+		"/Users/Dave/Desktop/localhost/style/wp-content",
+		"/Users/Dave/Desktop/localhost/style/wp-content/themes",
+		"/Users/Dave/Desktop/localhost/style/wp-content/themes/stylejc"
+	],
+	"file_history":
+	[
+		"/Users/Dave/Desktop/localhost/bootstrap-to-wp/wp-content/themes/bootstrap-to-wp/home.php",
+		"/Users/Dave/Desktop/localhost/bootstrap-to-wp/wp-content/themes/bootstrap-to-wp/footer.php",
+		"/Users/Dave/Desktop/localhost/bootstrap-to-wp/wp-content/themes/bootstrap-to-wp/header.php",
+		"/Users/Dave/Desktop/localhost/bootstrap-to-wp/wp-content/themes/bootstrap-to-wp/front-page.php",
+		"/index.php",
+		"/Users/Dave/Desktop/localhost/anthony-k/sql/anthony-k_2017-10-03.sql",
+		"/Users/Dave/Desktop/localhost/proman/wp-content/themes/proman/style.css",
+		"/Users/Dave/Desktop/localhost/proman/wp-content/themes/proman/functions.php",
+		"/Users/Dave/Desktop/localhost/proman/wp-content/themes/proman/css/style.scss",
+		"/Users/Dave/Desktop/localhost/proman/wp-content/themes/proman/css/style.css",
+		"/Users/Dave/Desktop/localhost/proman/wp-content/themes/proman/sass/main.scss",
+		"/Users/Dave/Desktop/localhost/experimental/wp-content/themes/Motif-child/style.css",
+		"/Users/Dave/Desktop/localhost/experimental/wp-content/themes/childofmotif/style.css",
+		"/Users/Dave/Desktop/localhost/experimental/wp-content/themes/childofsimone/style.css",
+		"/Users/Dave/Desktop/localhost/sites/wp-content/themes/childofsimone/style.css",
+		"/Users/Dave/Desktop/localhost/experimental/wp-content/themes/childoftwentyseventeen/style.css",
+		"/Users/Dave/Desktop/localhost/sites/wp-content/themes/simone/style.css",
+		"/Users/Dave/Desktop/localhost/test/wp-content/themes/childofsimone/style.css",
+		"/Users/Dave/Desktop/localhost/test/wp-config.php",
+		"/Users/Dave/Desktop/Slave work for mum/CodeSchool:/JavaScript:/puzzlerFunction.js",
+		"/Users/Dave/Desktop/Slave work for mum/CodeSchool:/JavaScript:/Passenger.js",
+		"/Users/Dave/Desktop/Slave work for mum/CodeSchool:/JavaScript:/Trains.js",
+		"/Users/Dave/Downloads/wordpress/index.php",
+		"/Users/Dave/Desktop/Slave work for mum/CodeSchool:/JavaScript:",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch08/Array iteration/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch06/While loop/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch05/Parameters/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch05/CreatingFunctions/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch04/switch statement/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch04/Complex Conditions/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch03/Whitespace/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch03/Whitespace/container.html",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch03/Numbers/script.js",
+		"/Users/Dave/Desktop/Slave work for mum/Exercise Files/ch02/First/script.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Dave/Desktop/localhost/style/wp-content/themes/stylejc/page-about-jacqui.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stylecounsellor.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
